@@ -12,3 +12,6 @@ What I usually use : ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=fl
 
 ![raetic's github stats](https://github-readme-stats.vercel.app/api?username=raetic&show_icons=true) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=raetic)](https://solved.ac/raetic)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Junsu&layout=compact&theme=white)
