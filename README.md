@@ -11,8 +11,7 @@ What I usually use : ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=fl
 </div>
 <div style="display:inline;">
   
-![raetic's github stats](https://github-readme-stats.vercel.app/api?username=raetic&show_icons=true) [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=raetic)](https://solved.ac/raetic)
+<img src="https://github-readme-stats.vercel.app/api?username=raetic" height="165"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=raetic">
 
 </div>
 
