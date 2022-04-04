@@ -9,7 +9,7 @@ What I usually use : ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=fl
  I've used before : [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)[![JS](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Joowon0220/TODO-List) 
   
 </div>
-<div white-space: nowrap;>
+<div style="display:inline;">
   
 ![raetic's github stats](https://github-readme-stats.vercel.app/api?username=raetic&show_icons=true) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=raetic)](https://solved.ac/raetic)
