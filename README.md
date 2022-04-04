@@ -8,13 +8,11 @@ What I usually use : ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=fl
   
  I've used before : [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)[![JS](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Joowon0220/TODO-List) 
   
-</div>
 
   
 <img src="https://github-readme-stats.vercel.app/api?username=raetic" height="165"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=raetic">
 
 
-<div align=center>
-  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Junsu&layout=compact&theme=white)
 </div>
