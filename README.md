@@ -16,3 +16,5 @@ What I usually use : ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=fl
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Junsu&layout=compact&theme=white)
 </div>
+
+e-mail-raetic@naver.com
